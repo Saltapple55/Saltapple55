@@ -1,0 +1,55 @@
+tr{
+    width: 400px
+}
+td{
+    padding: 10px
+}
+body{
+    background-color: #A1D2CE;
+}
+.navbar{
+    background-color: #50858B !important;
+
+}
+
+
+.navbar-nav{
+    --bs-nav-link-color: aliceblue !important;
+    color: aliceblue !important;
+}
+.card{
+    background-color: aliceblue !important;
+
+    height: 300px;
+    width: 18rem;
+}
+.card-body{
+    
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main{
+    width: 1000px;
+    margin: 0 auto;
+}
+h1{
+    text-align: center;
+}
+#about-me{
+    background-color: aliceblue !important;
+
+}
+.btn-primary{
+    background-color: #50858B !important;
+    border-color: #50858B !important;
+}
+#resume{
+    background-color: aliceblue !important;
+
+}
+.alice-blue{
+    background-color: aliceblue !important;
+
+}
+
